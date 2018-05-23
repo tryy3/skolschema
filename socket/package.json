@@ -1,0 +1,20 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "socket.js",
+  "dependencies": {
+    "MFRC522-node": "^1.0.5",
+    "connect": "^3.6.5",
+    "express": "^4.16.2",
+    "serve-static": "^1.13.1",
+    "ws": "^5.1.1",
+    "xlsx": "^0.12.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

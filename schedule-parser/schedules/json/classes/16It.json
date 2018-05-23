@@ -1,0 +1,715 @@
+{
+	"width": 610.93,
+	"height": 315,
+	"titles": [
+		"Måndag",
+		"Tisdag",
+		"Onsdag",
+		"Torsdag",
+		"Fredag"
+	],
+	"lessons": [
+		{
+			"startTime": "08:00",
+			"endTime": "09:00",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "Läsår",
+					"teacher": "SASU",
+					"location": "201"
+				}
+			],
+			"day": 0,
+			"cx": 21.118600000000008,
+			"cy": 33.34125,
+			"x": 1.2658000000000023,
+			"y": 16.89,
+			"w": 39.705600000000004,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "08:10",
+			"endTime": "09:20",
+			"details": [
+				{
+					"course": "Matematik 1a",
+					"period": "Ht",
+					"teacher": "AIME",
+					"location": "203"
+				}
+			],
+			"day": 0,
+			"cx": 61.3852,
+			"cy": 41.36946,
+			"x": 40.9648,
+			"y": 22.10946,
+			"w": 40.8408,
+			"h": 38.52,
+			"oc": "#ff0000"
+		},
+		{
+			"startTime": "08:10",
+			"endTime": "09:10",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "Läsår",
+					"teacher": "PEBJ",
+					"location": "209,210"
+				}
+			],
+			"day": 0,
+			"cx": 102.226,
+			"cy": 38.56071,
+			"x": 81.8056,
+			"y": 22.10946,
+			"w": 40.8408,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "09:00",
+			"endTime": "09:50",
+			"details": [
+				{
+					"course": "Historia 1a1",
+					"period": "v6-7,19-23",
+					"teacher": "CRVA",
+					"location": "304"
+				}
+			],
+			"day": 0,
+			"cx": 21.118600000000008,
+			"cy": 63.435,
+			"x": 1.2658000000000023,
+			"y": 49.792500000000004,
+			"w": 39.705600000000004,
+			"h": 27.285,
+			"oc": "#ff80ff"
+		},
+		{
+			"startTime": "09:55",
+			"endTime": "10:25",
+			"details": [
+				{
+					"course": "Mentorstid",
+					"period": "Läsår Ej:v9-12,15-17",
+					"teacher": "JAZA,CRVA",
+					"location": "204a"
+				}
+			],
+			"day": 0,
+			"cx": 61.95609999999999,
+			"cy": 88.11669000000002,
+			"x": 1.2658000000000023,
+			"y": 79.88946,
+			"w": 121.3806,
+			"h": 16.45446,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "10:30",
+			"endTime": "11:55",
+			"details": [
+				{
+					"course": "Nätverksteknik",
+					"period": "Läsår Ej:v9-12,15-17",
+					"teacher": "ARDI",
+					"location": "204a"
+				}
+			],
+			"day": 0,
+			"cx": 61.95609999999999,
+			"cy": 122.42195999999998,
+			"x": 1.2658000000000023,
+			"y": 99.14945999999999,
+			"w": 121.3806,
+			"h": 46.545,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "12:25",
+			"endTime": "15:25",
+			"details": [
+				{
+					"course": "Elektronik och mikrodatorteknik",
+					"period": "Läsår Ej:v9-12,15-17",
+					"teacher": "CRVA",
+					"location": "204b"
+				}
+			],
+			"day": 0,
+			"cx": 31.325500000000005,
+			"cy": 211.90071000000003,
+			"x": 1.2658000000000023,
+			"y": 162.54695999999998,
+			"w": 60.1194,
+			"h": 98.70750000000001,
+			"oc": "#ff0000"
+		},
+		{
+			"startTime": "15:00",
+			"endTime": "16:00",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "v17-21",
+					"teacher": "MAWI",
+					"location": "210"
+				}
+			],
+			"day": 0,
+			"cx": 92.0125,
+			"cy": 264.0632100000001,
+			"x": 61.385200000000026,
+			"y": 247.61196,
+			"w": 61.25460000000001,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "15:30",
+			"endTime": "16:50",
+			"details": [
+				{
+					"course": "Engelska 6",
+					"period": "Läsår",
+					"teacher": "JOBR",
+					"location": "209"
+				}
+			],
+			"day": 0,
+			"cx": 31.325500000000005,
+			"cy": 286.12875,
+			"x": 1.2658000000000023,
+			"y": 264.06,
+			"w": 60.1194,
+			"h": 44.1375,
+			"oc": "#404040"
+		},
+		{
+			"startTime": "08:15",
+			"endTime": "09:15",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "v19-23",
+					"teacher": "CASO",
+					"location": "303"
+				}
+			],
+			"day": 1,
+			"cx": 183.33010000000002,
+			"cy": 41.36625,
+			"x": 122.63980000000001,
+			"y": 24.915,
+			"w": 121.3806,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "09:15",
+			"endTime": "10:25",
+			"details": [
+				{
+					"course": "Naturkunskap 1a1",
+					"period": "Ht",
+					"teacher": "ELEG,CRVA",
+					"location": "104"
+				}
+			],
+			"day": 1,
+			"cx": 152.69950000000003,
+			"cy": 77.0775,
+			"x": 122.63980000000001,
+			"y": 57.81750000000001,
+			"w": 60.1194,
+			"h": 38.52,
+			"oc": "#800000"
+		},
+		{
+			"startTime": "10:30",
+			"endTime": "11:55",
+			"details": [
+				{
+					"course": "Administration av nätverks- och serverutrustning",
+					"period": "Läsår Ej:v9-12,15-17",
+					"teacher": "ARDI",
+					"location": "204a"
+				}
+			],
+			"day": 1,
+			"cx": 183.33010000000002,
+			"cy": 122.42195999999998,
+			"x": 122.63980000000001,
+			"y": 99.14945999999999,
+			"w": 121.3806,
+			"h": 46.545,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "12:20",
+			"endTime": "13:45",
+			"details": [
+				{
+					"course": "Svenska 2",
+					"period": "Läsår",
+					"teacher": "PEBJ",
+					"location": "209"
+				}
+			],
+			"day": 1,
+			"cx": 152.69950000000003,
+			"cy": 183.00750000000002,
+			"x": 122.63980000000001,
+			"y": 159.735,
+			"w": 60.1194,
+			"h": 46.545,
+			"oc": "#80ff80"
+		},
+		{
+			"startTime": "12:20",
+			"endTime": "13:40",
+			"details": [
+				{
+					"course": "Svenska",
+					"period": "v41-7,19-23",
+					"teacher": "ANSO",
+					"location": "305a"
+				}
+			],
+			"day": 1,
+			"cx": 213.39310000000006,
+			"cy": 181.60473000000005,
+			"x": 182.76580000000004,
+			"y": 159.735,
+			"w": 61.25460000000001,
+			"h": 43.73946,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "13:55",
+			"endTime": "16:45",
+			"details": [
+				{
+					"course": "Programmering 1",
+					"period": "Ht",
+					"teacher": "HÅLI,CRVA",
+					"location": "210"
+				}
+			],
+			"day": 1,
+			"cx": 152.69950000000003,
+			"cy": 258.64473000000004,
+			"x": 122.63980000000001,
+			"y": 211.8975,
+			"w": 60.1194,
+			"h": 93.49446,
+			"oc": "#ff8080"
+		},
+		{
+			"startTime": "13:55",
+			"endTime": "15:15",
+			"details": [
+				{
+					"course": "Programmering 1",
+					"period": "Vt Ej:v9-12,15-17",
+					"teacher": "CRVA",
+					"location": "210"
+				}
+			],
+			"day": 1,
+			"cx": 213.39310000000006,
+			"cy": 233.76723000000004,
+			"x": 182.76580000000004,
+			"y": 211.8975,
+			"w": 61.25460000000001,
+			"h": 43.73946,
+			"oc": "#ff8080"
+		},
+		{
+			"startTime": "15:15",
+			"endTime": "16:15",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "Läsår",
+					"teacher": "MAWI,ELEG",
+					"location": null
+				},
+				{
+					"course": "201, 104",
+					"period": "",
+					"teacher": null,
+					"location": null
+				}
+			],
+			"day": 1,
+			"cx": 213.39310000000006,
+			"cy": 272.29044000000005,
+			"x": 182.76580000000004,
+			"y": 255.63696000000004,
+			"w": 61.25460000000001,
+			"h": 33.306960000000004,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "09:30",
+			"endTime": "12:00",
+			"details": [
+				{
+					"course": "Webbutveckling 1_ny",
+					"period": "v45-22",
+					"teacher": "MAWI,CRVA",
+					"location": "201"
+				}
+			],
+			"day": 2,
+			"cx": 274.08009999999996,
+			"cy": 107.37669000000001,
+			"x": 244.02040000000005,
+			"y": 66.24696,
+			"w": 60.1194,
+			"h": 82.25946,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "12:30",
+			"endTime": "13:40",
+			"details": [
+				{
+					"course": "Matematik 1a",
+					"period": "Ht",
+					"teacher": "AIME",
+					"location": "201"
+				}
+			],
+			"day": 2,
+			"cx": 274.08009999999996,
+			"cy": 184.21446,
+			"x": 244.02040000000005,
+			"y": 164.95445999999998,
+			"w": 60.1194,
+			"h": 38.52,
+			"oc": "#ff0000"
+		},
+		{
+			"startTime": "13:45",
+			"endTime": "15:10",
+			"details": [
+				{
+					"course": "Nätverksteknik",
+					"period": "Läsår Ej:v9-12,14-18",
+					"teacher": "ARDI",
+					"location": "204a"
+				}
+			],
+			"day": 2,
+			"cx": 304.71070000000003,
+			"cy": 229.75473000000002,
+			"x": 244.02040000000005,
+			"y": 206.28,
+			"w": 121.3806,
+			"h": 46.94946,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "08:10",
+			"endTime": "09:15",
+			"details": [
+				{
+					"course": "Svenska som andraspråk 1",
+					"period": "Läsår Ej:v34-36,38-42",
+					"teacher": "CASO",
+					"location": "304"
+				}
+			],
+			"day": 3,
+			"cx": 395.45410000000004,
+			"cy": 39.96669,
+			"x": 365.3944,
+			"y": 22.10946,
+			"w": 60.1194,
+			"h": 35.71446,
+			"oc": "#00ff00"
+		},
+		{
+			"startTime": "08:15",
+			"endTime": "09:15",
+			"details": [
+				{
+					"course": "Engelska 6",
+					"period": "Läsår",
+					"teacher": "JOBR",
+					"location": "209"
+				}
+			],
+			"day": 3,
+			"cx": 456.14770000000004,
+			"cy": 41.36625,
+			"x": 425.5204,
+			"y": 24.915,
+			"w": 61.25460000000001,
+			"h": 32.9025,
+			"oc": "#404040"
+		},
+		{
+			"startTime": "10:00",
+			"endTime": "11:25",
+			"details": [
+				{
+					"course": "Administration av nätverks- och serverutrustning",
+					"period": "Läsår Ej:v9-12,14-18",
+					"teacher": "ARDI",
+					"location": "204a"
+				}
+			],
+			"day": 3,
+			"cx": 426.08470000000005,
+			"cy": 105.9675,
+			"x": 365.3944,
+			"y": 82.69500000000001,
+			"w": 121.3806,
+			"h": 46.545,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "12:20",
+			"endTime": "13:20",
+			"details": [
+				{
+					"course": "Idrott och hälsa 1",
+					"period": "Läsår Ej:v9-12,14-18",
+					"teacher": "ERAN",
+					"location": null
+				},
+				{
+					"course": "Tegelbruket",
+					"period": "",
+					"teacher": null,
+					"location": null
+				}
+			],
+			"day": 3,
+			"cx": 426.08470000000005,
+			"cy": 176.18625,
+			"x": 365.3944,
+			"y": 159.735,
+			"w": 121.3806,
+			"h": 32.9025,
+			"oc": "#ffc000"
+		},
+		{
+			"startTime": "13:50",
+			"endTime": "15:10",
+			"details": [
+				{
+					"course": "Programmering 1",
+					"period": "Vt",
+					"teacher": "HÅLI",
+					"location": "210"
+				}
+			],
+			"day": 3,
+			"cx": 456.14770000000004,
+			"cy": 231.16071000000002,
+			"x": 425.5204,
+			"y": 209.09196000000003,
+			"w": 61.25460000000001,
+			"h": 44.1375,
+			"oc": "#ff8080"
+		},
+		{
+			"startTime": "14:00",
+			"endTime": "15:10",
+			"details": [
+				{
+					"course": "Naturkunskap 1a1",
+					"period": "Ht",
+					"teacher": "ELEG",
+					"location": "104"
+				}
+			],
+			"day": 3,
+			"cx": 395.45410000000004,
+			"cy": 233.96946000000003,
+			"x": 365.3944,
+			"y": 214.70946000000004,
+			"w": 60.1194,
+			"h": 38.52,
+			"oc": "#800000"
+		},
+		{
+			"startTime": "15:15",
+			"endTime": "16:45",
+			"details": [
+				{
+					"course": "Historia 1a1",
+					"period": "v34-5",
+					"teacher": "ERAN,CRVA",
+					"location": "210"
+				}
+			],
+			"day": 3,
+			"cx": 385.2472,
+			"cy": 280.51446000000004,
+			"x": 365.3944,
+			"y": 255.63696000000004,
+			"w": 39.705600000000004,
+			"h": 49.755,
+			"oc": "#ff80ff"
+		},
+		{
+			"startTime": "15:15",
+			"endTime": "16:25",
+			"details": [
+				{
+					"course": "Historia 1a1",
+					"period": "v6,20-23",
+					"teacher": "CRVA",
+					"location": "210"
+				}
+			],
+			"day": 3,
+			"cx": 425.5204,
+			"cy": 274.89696000000004,
+			"x": 405.1,
+			"y": 255.63696000000004,
+			"w": 40.8408,
+			"h": 38.52,
+			"oc": "#ff80ff"
+		},
+		{
+			"startTime": "15:45",
+			"endTime": "16:45",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "Läsår",
+					"teacher": "CEBO,JOBR",
+					"location": null
+				},
+				{
+					"course": "209, 201,303",
+					"period": "",
+					"teacher": null,
+					"location": null
+				}
+			],
+			"day": 3,
+			"cx": 466.36120000000005,
+			"cy": 288.9407100000001,
+			"x": 445.9408000000001,
+			"y": 272.48946000000007,
+			"w": 40.8408,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "08:10",
+			"endTime": "09:10",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "Ht",
+					"teacher": null,
+					"location": "204a"
+				}
+			],
+			"day": 4,
+			"cx": 506.6278000000001,
+			"cy": 38.56071,
+			"x": 486.7750000000001,
+			"y": 22.10946,
+			"w": 39.705600000000004,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "08:10",
+			"endTime": "09:10",
+			"details": [
+				{
+					"course": "Matematik 1a",
+					"period": "v7",
+					"teacher": "AIME",
+					"location": "303"
+				}
+			],
+			"day": 4,
+			"cx": 546.9010000000001,
+			"cy": 38.56071,
+			"x": 526.4806000000001,
+			"y": 22.10946,
+			"w": 40.8408,
+			"h": 32.9025,
+			"oc": "#ff0000"
+		},
+		{
+			"startTime": "08:15",
+			"endTime": "09:10",
+			"details": [
+				{
+					"course": "Svenska 2",
+					"period": "Läsår",
+					"teacher": "PEBJ",
+					"location": "209"
+				}
+			],
+			"day": 4,
+			"cx": 587.7352,
+			"cy": 39.96348,
+			"x": 567.3148000000001,
+			"y": 24.915,
+			"w": 40.8408,
+			"h": 30.096960000000003,
+			"oc": "#80ff80"
+		},
+		{
+			"startTime": "09:15",
+			"endTime": "11:35",
+			"details": [
+				{
+					"course": "Nätverksteknologier",
+					"period": "Läsår",
+					"teacher": "SASU,CRVA",
+					"location": "203"
+				}
+			],
+			"day": 4,
+			"cx": 516.8347,
+			"cy": 96.3375,
+			"x": 486.7750000000001,
+			"y": 57.81750000000001,
+			"w": 60.1194,
+			"h": 77.04,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "12:20",
+			"endTime": "15:10",
+			"details": [
+				{
+					"course": "Kommunikationsnät 1",
+					"period": "Läsår Ej:v9-12,14-18",
+					"teacher": "SASU,CRVA",
+					"location": "203"
+				}
+			],
+			"day": 4,
+			"cx": 547.4653000000001,
+			"cy": 206.48223000000004,
+			"x": 486.7750000000001,
+			"y": 159.735,
+			"w": 121.3806,
+			"h": 93.49446,
+			"oc": "#00ff40"
+		}
+	],
+	"className": {
+		"id": "{65CF19F6-828A-46C4-A40B-C09A3754D3D7}",
+		"name": "16It"
+	}
+}

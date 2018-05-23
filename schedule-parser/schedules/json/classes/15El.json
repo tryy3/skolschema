@@ -1,0 +1,537 @@
+{
+	"width": 610.93,
+	"height": 315,
+	"titles": [
+		"Måndag",
+		"Tisdag",
+		"Onsdag",
+		"Torsdag",
+		"Fredag"
+	],
+	"lessons": [
+		{
+			"startTime": "08:00",
+			"endTime": "09:00",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "Läsår",
+					"teacher": "SASU",
+					"location": "201"
+				}
+			],
+			"day": 0,
+			"cx": 21.118600000000008,
+			"cy": 33.34125,
+			"x": 1.2658000000000023,
+			"y": 16.89,
+			"w": 39.705600000000004,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "08:10",
+			"endTime": "09:10",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "Läsår",
+					"teacher": "PEBJ",
+					"location": "209,210"
+				}
+			],
+			"day": 0,
+			"cx": 61.3852,
+			"cy": 38.56071,
+			"x": 40.9648,
+			"y": 22.10946,
+			"w": 40.8408,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "08:30",
+			"endTime": "09:55",
+			"details": [
+				{
+					"course": "Nätverksadministration",
+					"period": "v34-43,3",
+					"teacher": "ARDI",
+					"location": "204a"
+				}
+			],
+			"day": 0,
+			"cx": 102.226,
+			"cy": 56.61695999999999,
+			"x": 81.8056,
+			"y": 33.344460000000005,
+			"w": 40.8408,
+			"h": 46.545,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "09:55",
+			"endTime": "10:25",
+			"details": [
+				{
+					"course": "Mentorstid",
+					"period": "Läsår Ej:v45-51",
+					"teacher": "HÅLI,ARDI",
+					"location": "204b"
+				}
+			],
+			"day": 0,
+			"cx": 61.95609999999999,
+			"cy": 88.11669000000002,
+			"x": 1.2658000000000023,
+			"y": 79.88946,
+			"w": 121.3806,
+			"h": 16.45446,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "11:45",
+			"endTime": "14:35",
+			"details": [
+				{
+					"course": "Digital kommunikationsteknik",
+					"period": "v34-43,3-7",
+					"teacher": "SASU",
+					"location": "203"
+				}
+			],
+			"day": 0,
+			"cx": 31.325500000000005,
+			"cy": 187.22223000000002,
+			"x": 1.2658000000000023,
+			"y": 140.47500000000002,
+			"w": 60.1194,
+			"h": 93.49446,
+			"oc": "#800000"
+		},
+		{
+			"startTime": "11:45",
+			"endTime": "13:15",
+			"details": [
+				{
+					"course": "Religionskunskap 1",
+					"period": "v9-23",
+					"teacher": "ANEV",
+					"location": "203"
+				}
+			],
+			"day": 0,
+			"cx": 92.0125,
+			"cy": 165.15348000000003,
+			"x": 61.385200000000026,
+			"y": 140.47500000000002,
+			"w": 61.25460000000001,
+			"h": 49.35696,
+			"oc": "#808080"
+		},
+		{
+			"startTime": "13:20",
+			"endTime": "16:10",
+			"details": [
+				{
+					"course": "Digital kommunikationsteknik",
+					"period": "v9-23",
+					"teacher": "SASU",
+					"location": "203"
+				}
+			],
+			"day": 0,
+			"cx": 102.226,
+			"cy": 239.38473000000005,
+			"x": 81.8056,
+			"y": 192.63750000000002,
+			"w": 40.8408,
+			"h": 93.49446,
+			"oc": "#800000"
+		},
+		{
+			"startTime": "14:50",
+			"endTime": "16:20",
+			"details": [
+				{
+					"course": "Religionskunskap 1",
+					"period": "v34-43,3-7",
+					"teacher": "ANEV",
+					"location": "201"
+				}
+			],
+			"day": 0,
+			"cx": 21.118600000000008,
+			"cy": 266.87196000000006,
+			"x": 1.2658000000000023,
+			"y": 241.99446000000003,
+			"w": 39.705600000000004,
+			"h": 49.755,
+			"oc": "#808080"
+		},
+		{
+			"startTime": "15:00",
+			"endTime": "16:00",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "v17-21",
+					"teacher": "MAWI",
+					"location": "210"
+				}
+			],
+			"day": 0,
+			"cx": 61.3852,
+			"cy": 264.0632100000001,
+			"x": 40.9648,
+			"y": 247.61196,
+			"w": 40.8408,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "09:25",
+			"endTime": "10:30",
+			"details": [
+				{
+					"course": "Entreprenörskap",
+					"period": "Vt",
+					"teacher": "CEBO",
+					"location": "304"
+				}
+			],
+			"day": 1,
+			"cx": 213.39310000000006,
+			"cy": 81.29223,
+			"x": 182.76580000000004,
+			"y": 63.435,
+			"w": 61.25460000000001,
+			"h": 35.71446,
+			"oc": "#ffc0c0"
+		},
+		{
+			"startTime": "10:00",
+			"endTime": "11:25",
+			"details": [
+				{
+					"course": "Entreprenörskap",
+					"period": "Ht Ej:v45-51",
+					"teacher": "CEBO",
+					"location": "304"
+				}
+			],
+			"day": 1,
+			"cx": 152.69950000000003,
+			"cy": 105.9675,
+			"x": 122.63980000000001,
+			"y": 82.69500000000001,
+			"w": 60.1194,
+			"h": 46.545,
+			"oc": "#ffc0c0"
+		},
+		{
+			"startTime": "10:35",
+			"endTime": "11:45",
+			"details": [
+				{
+					"course": "Samhällskunskap 1a1",
+					"period": "Vt",
+					"teacher": "ANHO",
+					"location": "304"
+				}
+			],
+			"day": 1,
+			"cx": 213.39310000000006,
+			"cy": 121.215,
+			"x": 182.76580000000004,
+			"y": 101.95500000000001,
+			"w": 61.25460000000001,
+			"h": 38.52,
+			"oc": "#ff0000"
+		},
+		{
+			"startTime": "12:15",
+			"endTime": "15:05",
+			"details": [
+				{
+					"course": "Nätverkssäkerhet",
+					"period": "Vt",
+					"teacher": "SASU",
+					"location": "203"
+				}
+			],
+			"day": 1,
+			"cx": 213.39310000000006,
+			"cy": 203.67668999999998,
+			"x": 182.76580000000004,
+			"y": 156.92946,
+			"w": 61.25460000000001,
+			"h": 93.49446,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "12:15",
+			"endTime": "14:55",
+			"details": [
+				{
+					"course": "Service och reparationsarbete",
+					"period": "v34-43",
+					"teacher": "SASU",
+					"location": "203"
+				}
+			],
+			"day": 1,
+			"cx": 152.69950000000003,
+			"cy": 200.86793999999998,
+			"x": 122.63980000000001,
+			"y": 156.92946,
+			"w": 60.1194,
+			"h": 87.87696000000001,
+			"oc": "#ffc000"
+		},
+		{
+			"startTime": "15:15",
+			"endTime": "16:15",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "Läsår",
+					"teacher": "MAWI,ELEG",
+					"location": "201,104"
+				}
+			],
+			"day": 1,
+			"cx": 183.33010000000002,
+			"cy": 272.29044000000005,
+			"x": 122.63980000000001,
+			"y": 255.63696000000004,
+			"w": 121.3806,
+			"h": 33.306960000000004,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "08:50",
+			"endTime": "11:40",
+			"details": [
+				{
+					"course": "Nätverkssäkerhet",
+					"period": "Ht",
+					"teacher": "SASU",
+					"location": "203"
+				}
+			],
+			"day": 2,
+			"cx": 334.7671000000001,
+			"cy": 90.92223000000001,
+			"x": 304.13980000000004,
+			"y": 44.175000000000004,
+			"w": 61.25460000000001,
+			"h": 93.49446,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "08:50",
+			"endTime": "11:40",
+			"details": [
+				{
+					"course": "Nätverksadministration",
+					"period": "v4-22",
+					"teacher": "ARDI",
+					"location": "204a"
+				}
+			],
+			"day": 2,
+			"cx": 274.08009999999996,
+			"cy": 90.92223000000001,
+			"x": 244.02040000000005,
+			"y": 44.175000000000004,
+			"w": 60.1194,
+			"h": 93.49446,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "12:10",
+			"endTime": "13:20",
+			"details": [
+				{
+					"course": "Samhällskunskap 1a1",
+					"period": "Vt",
+					"teacher": "ANHO",
+					"location": "201"
+				}
+			],
+			"day": 2,
+			"cx": 334.7671000000001,
+			"cy": 173.3775,
+			"x": 304.13980000000004,
+			"y": 154.1175,
+			"w": 61.25460000000001,
+			"h": 38.52,
+			"oc": "#ff0000"
+		},
+		{
+			"startTime": "13:45",
+			"endTime": "15:25",
+			"details": [
+				{
+					"course": "Entreprenörskap",
+					"period": "Läsår Ej:v45-51",
+					"teacher": "CEBO",
+					"location": "303"
+				}
+			],
+			"day": 2,
+			"cx": 304.71070000000003,
+			"cy": 233.76723000000004,
+			"x": 244.02040000000005,
+			"y": 206.28,
+			"w": 121.3806,
+			"h": 54.97446,
+			"oc": "#ffc0c0"
+		},
+		{
+			"startTime": "10:30",
+			"endTime": "11:30",
+			"details": [
+				{
+					"course": "Svenska",
+					"period": "Vt",
+					"teacher": "ANSO",
+					"location": "305a"
+				}
+			],
+			"day": 3,
+			"cx": 456.14770000000004,
+			"cy": 115.60070999999999,
+			"x": 425.5204,
+			"y": 99.14945999999999,
+			"w": 61.25460000000001,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "12:00",
+			"endTime": "14:00",
+			"details": [
+				{
+					"course": "Webbserverprogrammering 1_ny",
+					"period": "v45-23",
+					"teacher": "MAWI",
+					"location": "204b"
+				}
+			],
+			"day": 3,
+			"cx": 395.45410000000004,
+			"cy": 181.60473000000005,
+			"x": 365.3944,
+			"y": 148.5,
+			"w": 60.1194,
+			"h": 66.20946,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "15:45",
+			"endTime": "16:45",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "Läsår",
+					"teacher": "CEBO,JOBR",
+					"location": "209,201,303"
+				}
+			],
+			"day": 3,
+			"cx": 426.08470000000005,
+			"cy": 288.9407100000001,
+			"x": 365.3944,
+			"y": 272.48946000000007,
+			"w": 121.3806,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "08:10",
+			"endTime": "09:10",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "Ht",
+					"teacher": null,
+					"location": "204a"
+				}
+			],
+			"day": 4,
+			"cx": 516.8347,
+			"cy": 38.56071,
+			"x": 486.7750000000001,
+			"y": 22.10946,
+			"w": 60.1194,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "10:30",
+			"endTime": "12:50",
+			"details": [
+				{
+					"course": "Webbutveckling 1_ny",
+					"period": "v15-23",
+					"teacher": "MAWI",
+					"location": "209"
+				}
+			],
+			"day": 4,
+			"cx": 577.5217,
+			"cy": 137.66946,
+			"x": 546.8944,
+			"y": 99.14945999999999,
+			"w": 61.25460000000001,
+			"h": 77.04,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "10:30",
+			"endTime": "11:55",
+			"details": [
+				{
+					"course": "Nätverksadministration",
+					"period": "Ht Ej:v45-50",
+					"teacher": "ARDI",
+					"location": "204a"
+				}
+			],
+			"day": 4,
+			"cx": 516.8347,
+			"cy": 122.42195999999998,
+			"x": 486.7750000000001,
+			"y": 99.14945999999999,
+			"w": 60.1194,
+			"h": 46.545,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "12:25",
+			"endTime": "14:55",
+			"details": [
+				{
+					"course": "Webbutveckling 1_ny",
+					"period": "v45-14",
+					"teacher": "MAWI",
+					"location": "209"
+				}
+			],
+			"day": 4,
+			"cx": 516.8347,
+			"cy": 203.67668999999998,
+			"x": 486.7750000000001,
+			"y": 162.54695999999998,
+			"w": 60.1194,
+			"h": 82.25946,
+			"oc": "#ffffff"
+		}
+	],
+	"className": {
+		"id": "{B47B4DFD-5EE3-465B-AD0F-2B98DDF2AE1B}",
+		"name": "15El"
+	}
+}

@@ -1,0 +1,721 @@
+{
+	"width": 610.93,
+	"height": 315,
+	"titles": [
+		"Måndag",
+		"Tisdag",
+		"Onsdag",
+		"Torsdag",
+		"Fredag"
+	],
+	"lessons": [
+		{
+			"startTime": "08:10",
+			"endTime": "09:10",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "Läsår",
+					"teacher": "PEBJ",
+					"location": "209,210"
+				}
+			],
+			"day": 0,
+			"cx": 61.95609999999999,
+			"cy": 38.56071,
+			"x": 1.2658000000000023,
+			"y": 22.10946,
+			"w": 121.3806,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "09:50",
+			"endTime": "11:00",
+			"details": [
+				{
+					"course": "Design 2",
+					"period": "Läsår",
+					"teacher": "TOSO",
+					"location": "303"
+				}
+			],
+			"day": 0,
+			"cx": 31.325500000000005,
+			"cy": 96.3375,
+			"x": 1.2658000000000023,
+			"y": 77.0775,
+			"w": 60.1194,
+			"h": 38.52,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "10:00",
+			"endTime": "11:10",
+			"details": [
+				{
+					"course": "Matematik 2b",
+					"period": "Läsår",
+					"teacher": "AIME,ERAN",
+					"location": "210"
+				}
+			],
+			"day": 0,
+			"cx": 92.0125,
+			"cy": 101.95500000000001,
+			"x": 61.385200000000026,
+			"y": 82.69500000000001,
+			"w": 61.25460000000001,
+			"h": 38.52,
+			"oc": "#ff0000"
+		},
+		{
+			"startTime": "11:45",
+			"endTime": "14:05",
+			"details": [
+				{
+					"course": "Konstarterna och samhället",
+					"period": "Vt",
+					"teacher": "JOBR",
+					"location": "303"
+				}
+			],
+			"day": 0,
+			"cx": 21.118600000000008,
+			"cy": 178.995,
+			"x": 1.2658000000000023,
+			"y": 140.47500000000002,
+			"w": 39.705600000000004,
+			"h": 77.04,
+			"oc": "#ffff80"
+		},
+		{
+			"startTime": "11:45",
+			"endTime": "12:55",
+			"details": [
+				{
+					"course": "Religionskunskap 1",
+					"period": "Ht",
+					"teacher": "ANEV",
+					"location": "303"
+				}
+			],
+			"day": 0,
+			"cx": 92.0125,
+			"cy": 159.735,
+			"x": 61.385200000000026,
+			"y": 140.47500000000002,
+			"w": 61.25460000000001,
+			"h": 38.52,
+			"oc": "#808080"
+		},
+		{
+			"startTime": "13:10",
+			"endTime": "13:40",
+			"details": [
+				{
+					"course": "Mentorstid",
+					"period": "Ht",
+					"teacher": "ERAN",
+					"location": "201"
+				}
+			],
+			"day": 0,
+			"cx": 61.3852,
+			"cy": 195.24723000000003,
+			"x": 40.9648,
+			"y": 187.02,
+			"w": 40.8408,
+			"h": 16.45446,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "13:10",
+			"endTime": "13:40",
+			"details": [
+				{
+					"course": "Mentorstid",
+					"period": "Ht",
+					"teacher": "PEBJ",
+					"location": "201"
+				}
+			],
+			"day": 0,
+			"cx": 102.226,
+			"cy": 195.24723000000003,
+			"x": 81.8056,
+			"y": 187.02,
+			"w": 40.8408,
+			"h": 16.45446,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "14:15",
+			"endTime": "15:25",
+			"details": [
+				{
+					"course": "Fotografisk bild 2",
+					"period": "Läsår",
+					"teacher": "TOSO,ERAN",
+					"location": "304"
+				}
+			],
+			"day": 0,
+			"cx": 31.325500000000005,
+			"cy": 241.99446000000003,
+			"x": 1.2658000000000023,
+			"y": 222.73446000000004,
+			"w": 60.1194,
+			"h": 38.52,
+			"oc": "#0000ff"
+		},
+		{
+			"startTime": "15:00",
+			"endTime": "16:00",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "v17-21",
+					"teacher": "MAWI",
+					"location": "210"
+				}
+			],
+			"day": 0,
+			"cx": 92.0125,
+			"cy": 264.0632100000001,
+			"x": 61.385200000000026,
+			"y": 247.61196,
+			"w": 61.25460000000001,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "08:15",
+			"endTime": "09:15",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "v19-23",
+					"teacher": "CASO",
+					"location": "303"
+				}
+			],
+			"day": 1,
+			"cx": 183.33010000000002,
+			"cy": 41.36625,
+			"x": 122.63980000000001,
+			"y": 24.915,
+			"w": 121.3806,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "09:25",
+			"endTime": "11:45",
+			"details": [
+				{
+					"course": "Gränssnittsdesign",
+					"period": "Läsår",
+					"teacher": "MAWI,ERAN",
+					"location": "201"
+				}
+			],
+			"day": 1,
+			"cx": 183.33010000000002,
+			"cy": 101.95500000000001,
+			"x": 122.63980000000001,
+			"y": 63.435,
+			"w": 121.3806,
+			"h": 77.04,
+			"oc": "#ff8080"
+		},
+		{
+			"startTime": "12:45",
+			"endTime": "13:55",
+			"details": [
+				{
+					"course": "Historia 2b - kultur",
+					"period": "Läsår",
+					"teacher": "ANHO,CRVA",
+					"location": "210"
+				}
+			],
+			"day": 1,
+			"cx": 183.33010000000002,
+			"cy": 192.63750000000002,
+			"x": 122.63980000000001,
+			"y": 173.3775,
+			"w": 121.3806,
+			"h": 38.52,
+			"oc": "#808000"
+		},
+		{
+			"startTime": "13:55",
+			"endTime": "15:10",
+			"details": [
+				{
+					"course": "Svenska som andraspråk 2",
+					"period": "Läsår Ej:v34-36,38-42",
+					"teacher": "CASO",
+					"location": null
+				}
+			],
+			"day": 1,
+			"cx": 213.39310000000006,
+			"cy": 232.56348000000003,
+			"x": 182.76580000000004,
+			"y": 211.8975,
+			"w": 61.25460000000001,
+			"h": 41.33196,
+			"oc": "#cc3366"
+		},
+		{
+			"startTime": "13:55",
+			"endTime": "15:10",
+			"details": [
+				{
+					"course": "Svenska som andraspråk 3",
+					"period": "Läsår Ej:v34-36,38-42",
+					"teacher": "CASO",
+					"location": null
+				}
+			],
+			"day": 1,
+			"cx": 152.69950000000003,
+			"cy": 232.56348000000003,
+			"x": 122.63980000000001,
+			"y": 211.8975,
+			"w": 60.1194,
+			"h": 41.33196,
+			"oc": "#ffff80"
+		},
+		{
+			"startTime": "15:15",
+			"endTime": "16:25",
+			"details": [
+				{
+					"course": "Engelska 7",
+					"period": "Läsår",
+					"teacher": "JOBR",
+					"location": "303"
+				}
+			],
+			"day": 1,
+			"cx": 152.69950000000003,
+			"cy": 274.89696000000004,
+			"x": 122.63980000000001,
+			"y": 255.63696000000004,
+			"w": 60.1194,
+			"h": 38.52,
+			"oc": "#008080"
+		},
+		{
+			"startTime": "15:15",
+			"endTime": "16:15",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "Läsår",
+					"teacher": "MAWI,ELEG",
+					"location": null
+				},
+				{
+					"course": "201, 104",
+					"period": "",
+					"teacher": null,
+					"location": null
+				}
+			],
+			"day": 1,
+			"cx": 213.39310000000006,
+			"cy": 272.29044000000005,
+			"x": 182.76580000000004,
+			"y": 255.63696000000004,
+			"w": 61.25460000000001,
+			"h": 33.306960000000004,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "08:20",
+			"endTime": "09:20",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "Läsår",
+					"teacher": "TOSO",
+					"location": "305a"
+				}
+			],
+			"day": 2,
+			"cx": 274.08009999999996,
+			"cy": 44.17820999999999,
+			"x": 244.02040000000005,
+			"y": 27.726960000000005,
+			"w": 60.1194,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "09:05",
+			"endTime": "10:05",
+			"details": [
+				{
+					"course": "Idrott och hälsa 2",
+					"period": "Läsår",
+					"teacher": "ERAN",
+					"location": null
+				},
+				{
+					"course": "Tegelbruket",
+					"period": "",
+					"teacher": null,
+					"location": null
+				}
+			],
+			"day": 2,
+			"cx": 334.7671000000001,
+			"cy": 69.05571,
+			"x": 304.13980000000004,
+			"y": 52.60446,
+			"w": 61.25460000000001,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "09:30",
+			"endTime": "10:40",
+			"details": [
+				{
+					"course": "Matematik",
+					"period": "Läsår",
+					"teacher": "JAZA",
+					"location": "204b"
+				}
+			],
+			"day": 2,
+			"cx": 274.08009999999996,
+			"cy": 85.50696,
+			"x": 244.02040000000005,
+			"y": 66.24696,
+			"w": 60.1194,
+			"h": 38.52,
+			"oc": "#ff0000"
+		},
+		{
+			"startTime": "10:45",
+			"endTime": "11:55",
+			"details": [
+				{
+					"course": "Design 2",
+					"period": "Läsår",
+					"teacher": "TOSO",
+					"location": "303"
+				}
+			],
+			"day": 2,
+			"cx": 274.08009999999996,
+			"cy": 126.63348000000002,
+			"x": 244.02040000000005,
+			"y": 107.5725,
+			"w": 60.1194,
+			"h": 38.12196,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "10:45",
+			"endTime": "11:55",
+			"details": [
+				{
+					"course": "Matematik 2b",
+					"period": "Läsår",
+					"teacher": "AIME,CRVA",
+					"location": "209"
+				}
+			],
+			"day": 2,
+			"cx": 334.7671000000001,
+			"cy": 126.63348000000002,
+			"x": 304.13980000000004,
+			"y": 107.5725,
+			"w": 61.25460000000001,
+			"h": 38.12196,
+			"oc": "#ff0000"
+		},
+		{
+			"startTime": "12:30",
+			"endTime": "13:40",
+			"details": [
+				{
+					"course": "Entreprenörskap",
+					"period": "Läsår",
+					"teacher": "CRVA,CEBO",
+					"location": "210"
+				}
+			],
+			"day": 2,
+			"cx": 304.71070000000003,
+			"cy": 184.21446,
+			"x": 244.02040000000005,
+			"y": 164.95445999999998,
+			"w": 121.3806,
+			"h": 38.52,
+			"oc": "#ffc0c0"
+		},
+		{
+			"startTime": "13:50",
+			"endTime": "15:00",
+			"details": [
+				{
+					"course": "Svenska 3",
+					"period": "Läsår",
+					"teacher": "PEBJ,CRVA",
+					"location": "210"
+				}
+			],
+			"day": 2,
+			"cx": 304.71070000000003,
+			"cy": 228.35196000000002,
+			"x": 244.02040000000005,
+			"y": 209.09196000000003,
+			"w": 121.3806,
+			"h": 38.52,
+			"oc": "#ff8080"
+		},
+		{
+			"startTime": "09:20",
+			"endTime": "10:30",
+			"details": [
+				{
+					"course": "Gymnasiearbete Estetiska programmet",
+					"period": "Läsår",
+					"teacher": "CRVA",
+					"location": "303"
+				}
+			],
+			"day": 3,
+			"cx": 426.08470000000005,
+			"cy": 79.88946,
+			"x": 365.3944,
+			"y": 60.62946000000001,
+			"w": 121.3806,
+			"h": 38.52,
+			"oc": "#996633"
+		},
+		{
+			"startTime": "10:35",
+			"endTime": "11:45",
+			"details": [
+				{
+					"course": "Historia 2b - kultur",
+					"period": "Läsår",
+					"teacher": "ANHO,CRVA",
+					"location": "209"
+				}
+			],
+			"day": 3,
+			"cx": 426.08470000000005,
+			"cy": 121.215,
+			"x": 365.3944,
+			"y": 101.95500000000001,
+			"w": 121.3806,
+			"h": 38.52,
+			"oc": "#808000"
+		},
+		{
+			"startTime": "12:30",
+			"endTime": "13:40",
+			"details": [
+				{
+					"course": "Svenska 3",
+					"period": "Läsår",
+					"teacher": "PEBJ,CRVA,CASO",
+					"location": "209"
+				}
+			],
+			"day": 3,
+			"cx": 426.08470000000005,
+			"cy": 184.21446,
+			"x": 365.3944,
+			"y": 164.95445999999998,
+			"w": 121.3806,
+			"h": 38.52,
+			"oc": "#ff8080"
+		},
+		{
+			"startTime": "13:50",
+			"endTime": "15:00",
+			"details": [
+				{
+					"course": "Entreprenörskap",
+					"period": "Läsår",
+					"teacher": "CRVA,CEBO",
+					"location": "203"
+				}
+			],
+			"day": 3,
+			"cx": 426.08470000000005,
+			"cy": 228.35196000000002,
+			"x": 365.3944,
+			"y": 209.09196000000003,
+			"w": 121.3806,
+			"h": 38.52,
+			"oc": "#ffc0c0"
+		},
+		{
+			"startTime": "15:05",
+			"endTime": "16:15",
+			"details": [
+				{
+					"course": "Fotografisk bild 2",
+					"period": "Läsår",
+					"teacher": "TOSO",
+					"location": "304"
+				}
+			],
+			"day": 3,
+			"cx": 395.45410000000004,
+			"cy": 269.6775,
+			"x": 365.3944,
+			"y": 250.41750000000002,
+			"w": 60.1194,
+			"h": 38.52,
+			"oc": "#0000ff"
+		},
+		{
+			"startTime": "15:45",
+			"endTime": "16:45",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "Läsår",
+					"teacher": "CEBO,JOBR",
+					"location": null
+				},
+				{
+					"course": "209, 201,303",
+					"period": "",
+					"teacher": null,
+					"location": null
+				}
+			],
+			"day": 3,
+			"cx": 456.14770000000004,
+			"cy": 288.9407100000001,
+			"x": 425.5204,
+			"y": 272.48946000000007,
+			"w": 61.25460000000001,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "08:10",
+			"endTime": "09:10",
+			"details": [
+				{
+					"course": "Mattestuga",
+					"period": "Läsår",
+					"teacher": "AIME,JAZA,ANEV,HÅLI",
+					"location": null
+				},
+				{
+					"course": "304, 303",
+					"period": "",
+					"teacher": null,
+					"location": null
+				}
+			],
+			"day": 4,
+			"cx": 547.4653000000001,
+			"cy": 38.56071,
+			"x": 486.7750000000001,
+			"y": 22.10946,
+			"w": 121.3806,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "09:15",
+			"endTime": "10:25",
+			"details": [
+				{
+					"course": "Engelska 7",
+					"period": "Läsår",
+					"teacher": "JOBR",
+					"location": "303"
+				}
+			],
+			"day": 4,
+			"cx": 547.4653000000001,
+			"cy": 77.0775,
+			"x": 486.7750000000001,
+			"y": 57.81750000000001,
+			"w": 121.3806,
+			"h": 38.52,
+			"oc": "#008080"
+		},
+		{
+			"startTime": "10:30",
+			"endTime": "12:50",
+			"details": [
+				{
+					"course": "Webbutveckling 1_ny",
+					"period": "v15-23",
+					"teacher": "MAWI",
+					"location": "209"
+				}
+			],
+			"day": 4,
+			"cx": 577.5217,
+			"cy": 137.66946,
+			"x": 546.8944,
+			"y": 99.14945999999999,
+			"w": 61.25460000000001,
+			"h": 77.04,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "10:45",
+			"endTime": "11:55",
+			"details": [
+				{
+					"course": "Religionskunskap 1",
+					"period": "Ht",
+					"teacher": "ANEV",
+					"location": "303"
+				}
+			],
+			"day": 4,
+			"cx": 516.8347,
+			"cy": 126.63348000000002,
+			"x": 486.7750000000001,
+			"y": 107.5725,
+			"w": 60.1194,
+			"h": 38.12196,
+			"oc": "#808080"
+		},
+		{
+			"startTime": "12:25",
+			"endTime": "14:55",
+			"details": [
+				{
+					"course": "Webbutveckling 1_ny",
+					"period": "v45-14",
+					"teacher": "MAWI",
+					"location": "209"
+				}
+			],
+			"day": 4,
+			"cx": 516.8347,
+			"cy": 203.67668999999998,
+			"x": 486.7750000000001,
+			"y": 162.54695999999998,
+			"w": 60.1194,
+			"h": 82.25946,
+			"oc": "#ffffff"
+		}
+	],
+	"className": {
+		"id": "{80F46405-EDD9-4F98-BE39-3F8B7E44A795}",
+		"name": "15Es"
+	}
+}

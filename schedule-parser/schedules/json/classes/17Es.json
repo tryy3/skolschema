@@ -1,0 +1,469 @@
+{
+	"width": 610.93,
+	"height": 315,
+	"titles": [
+		"Måndag",
+		"Tisdag",
+		"Onsdag",
+		"Torsdag",
+		"Fredag"
+	],
+	"lessons": [
+		{
+			"startTime": "08:10",
+			"endTime": "09:10",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "Läsår",
+					"teacher": "PEBJ",
+					"location": "209,210"
+				}
+			],
+			"day": 0,
+			"cx": 31.325500000000005,
+			"cy": 38.56071,
+			"x": 1.2658000000000023,
+			"y": 22.10946,
+			"w": 60.1194,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "08:35",
+			"endTime": "09:45",
+			"details": [
+				{
+					"course": "Medier samhälle och kommunikation 1",
+					"period": "Läsår",
+					"teacher": "JOBR",
+					"location": "303"
+				}
+			],
+			"day": 0,
+			"cx": 92.0125,
+			"cy": 55.01196,
+			"x": 61.385200000000026,
+			"y": 35.751960000000004,
+			"w": 61.25460000000001,
+			"h": 38.52,
+			"oc": "#808000"
+		},
+		{
+			"startTime": "10:00",
+			"endTime": "11:10",
+			"details": [
+				{
+					"course": "Svenska 1",
+					"period": "Läsår",
+					"teacher": "PEBJ",
+					"location": "304"
+				}
+			],
+			"day": 0,
+			"cx": 61.95609999999999,
+			"cy": 101.95500000000001,
+			"x": 1.2658000000000023,
+			"y": 82.69500000000001,
+			"w": 121.3806,
+			"h": 38.52,
+			"oc": "#ccff66"
+		},
+		{
+			"startTime": "15:00",
+			"endTime": "16:00",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "v17-21",
+					"teacher": "MAWI",
+					"location": "210"
+				}
+			],
+			"day": 0,
+			"cx": 61.95609999999999,
+			"cy": 264.0632100000001,
+			"x": 1.2658000000000023,
+			"y": 247.61196,
+			"w": 121.3806,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "08:15",
+			"endTime": "09:15",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "v19-23",
+					"teacher": "CASO",
+					"location": "303"
+				}
+			],
+			"day": 1,
+			"cx": 183.33010000000002,
+			"cy": 41.36625,
+			"x": 122.63980000000001,
+			"y": 24.915,
+			"w": 121.3806,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "09:20",
+			"endTime": "11:50",
+			"details": [
+				{
+					"course": "Estetisk kommunikation 1",
+					"period": "Läsår",
+					"teacher": "TOSO",
+					"location": "303"
+				}
+			],
+			"day": 1,
+			"cx": 183.33010000000002,
+			"cy": 101.95821000000002,
+			"x": 122.63980000000001,
+			"y": 60.62946000000001,
+			"w": 121.3806,
+			"h": 82.6575,
+			"oc": "#ffff80"
+		},
+		{
+			"startTime": "12:30",
+			"endTime": "15:00",
+			"details": [
+				{
+					"course": "Medieproduktion 1",
+					"period": "Läsår",
+					"teacher": "JOBR",
+					"location": "303"
+				}
+			],
+			"day": 1,
+			"cx": 183.33010000000002,
+			"cy": 206.28321000000003,
+			"x": 122.63980000000001,
+			"y": 164.95445999999998,
+			"w": 121.3806,
+			"h": 82.6575,
+			"oc": "#ffc000"
+		},
+		{
+			"startTime": "15:15",
+			"endTime": "16:15",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "Läsår",
+					"teacher": "MAWI,ELEG",
+					"location": "201,104"
+				}
+			],
+			"day": 1,
+			"cx": 183.33010000000002,
+			"cy": 272.29044000000005,
+			"x": 122.63980000000001,
+			"y": 255.63696000000004,
+			"w": 121.3806,
+			"h": 33.306960000000004,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "08:20",
+			"endTime": "09:20",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "Läsår",
+					"teacher": "TOSO",
+					"location": "305a"
+				}
+			],
+			"day": 2,
+			"cx": 304.71070000000003,
+			"cy": 44.17820999999999,
+			"x": 244.02040000000005,
+			"y": 27.726960000000005,
+			"w": 121.3806,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "09:30",
+			"endTime": "10:00",
+			"details": [
+				{
+					"course": "Mentorstid",
+					"period": "Läsår",
+					"teacher": "JOBR",
+					"location": "304"
+				}
+			],
+			"day": 2,
+			"cx": 304.71070000000003,
+			"cy": 74.47419000000001,
+			"x": 244.02040000000005,
+			"y": 66.24696,
+			"w": 121.3806,
+			"h": 16.45446,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "10:05",
+			"endTime": "11:15",
+			"details": [
+				{
+					"course": "Engelska 5",
+					"period": "Läsår",
+					"teacher": "JOBR",
+					"location": "304"
+				}
+			],
+			"day": 2,
+			"cx": 304.71070000000003,
+			"cy": 104.76696000000003,
+			"x": 244.02040000000005,
+			"y": 85.50696,
+			"w": 121.3806,
+			"h": 38.52,
+			"oc": "#ccff66"
+		},
+		{
+			"startTime": "12:15",
+			"endTime": "13:15",
+			"details": [
+				{
+					"course": "Idrott och hälsa 1",
+					"period": "Läsår",
+					"teacher": "ERAN",
+					"location": null
+				},
+				{
+					"course": "Tegelbruket",
+					"period": "",
+					"teacher": null,
+					"location": null
+				}
+			],
+			"day": 2,
+			"cx": 304.71070000000003,
+			"cy": 173.38071,
+			"x": 244.02040000000005,
+			"y": 156.92946,
+			"w": 121.3806,
+			"h": 32.9025,
+			"oc": "#ffc000"
+		},
+		{
+			"startTime": "13:45",
+			"endTime": "14:55",
+			"details": [
+				{
+					"course": "Matematik 1b",
+					"period": "Läsår",
+					"teacher": "ANEV",
+					"location": "209"
+				}
+			],
+			"day": 2,
+			"cx": 304.71070000000003,
+			"cy": 225.54000000000002,
+			"x": 244.02040000000005,
+			"y": 206.28,
+			"w": 121.3806,
+			"h": 38.52,
+			"oc": "#ff0000"
+		},
+		{
+			"startTime": "08:10",
+			"endTime": "09:15",
+			"details": [
+				{
+					"course": "Svenska som andraspråk 1",
+					"period": "Läsår Ej:v34-36,38-42",
+					"teacher": "CASO",
+					"location": "304"
+				}
+			],
+			"day": 3,
+			"cx": 395.45410000000004,
+			"cy": 39.96669,
+			"x": 365.3944,
+			"y": 22.10946,
+			"w": 60.1194,
+			"h": 35.71446,
+			"oc": "#00ff00"
+		},
+		{
+			"startTime": "09:20",
+			"endTime": "10:30",
+			"details": [
+				{
+					"course": "Matematik 1b",
+					"period": "Läsår",
+					"teacher": "ANEV",
+					"location": "304"
+				}
+			],
+			"day": 3,
+			"cx": 426.08470000000005,
+			"cy": 79.88946,
+			"x": 365.3944,
+			"y": 60.62946000000001,
+			"w": 121.3806,
+			"h": 38.52,
+			"oc": "#ff0000"
+		},
+		{
+			"startTime": "11:45",
+			"endTime": "14:15",
+			"details": [
+				{
+					"course": "Fotografisk bild 1",
+					"period": "Läsår",
+					"teacher": "TOSO",
+					"location": "304"
+				}
+			],
+			"day": 3,
+			"cx": 426.08470000000005,
+			"cy": 181.60473000000005,
+			"x": 365.3944,
+			"y": 140.47500000000002,
+			"w": 121.3806,
+			"h": 82.25946,
+			"oc": "#00ffff"
+		},
+		{
+			"startTime": "14:30",
+			"endTime": "15:40",
+			"details": [
+				{
+					"course": "Svenska 1",
+					"period": "Läsår",
+					"teacher": "PEBJ",
+					"location": "209"
+				}
+			],
+			"day": 3,
+			"cx": 426.08470000000005,
+			"cy": 250.41750000000002,
+			"x": 365.3944,
+			"y": 231.15750000000003,
+			"w": 121.3806,
+			"h": 38.52,
+			"oc": "#ccff66"
+		},
+		{
+			"startTime": "15:45",
+			"endTime": "16:45",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "Läsår",
+					"teacher": "CEBO,JOBR",
+					"location": "209,201,303"
+				}
+			],
+			"day": 3,
+			"cx": 426.08470000000005,
+			"cy": 288.9407100000001,
+			"x": 365.3944,
+			"y": 272.48946000000007,
+			"w": 121.3806,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "08:10",
+			"endTime": "09:10",
+			"details": [
+				{
+					"course": "Mattestuga",
+					"period": "Läsår",
+					"teacher": "AIME,JAZA,ANEV,HÅLI",
+					"location": null
+				},
+				{
+					"course": "304, 303",
+					"period": "",
+					"teacher": null,
+					"location": null
+				}
+			],
+			"day": 4,
+			"cx": 547.4653000000001,
+			"cy": 38.56071,
+			"x": 486.7750000000001,
+			"y": 22.10946,
+			"w": 121.3806,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "09:15",
+			"endTime": "11:45",
+			"details": [
+				{
+					"course": "Digitalt skapande 1",
+					"period": "Läsår",
+					"teacher": "TOSO",
+					"location": "304"
+				}
+			],
+			"day": 4,
+			"cx": 547.4653000000001,
+			"cy": 99.14625000000001,
+			"x": 486.7750000000001,
+			"y": 57.81750000000001,
+			"w": 121.3806,
+			"h": 82.6575,
+			"oc": "#663333"
+		},
+		{
+			"startTime": "12:15",
+			"endTime": "13:25",
+			"details": [
+				{
+					"course": "Engelska 5",
+					"period": "Läsår",
+					"teacher": "JOBR",
+					"location": "201"
+				}
+			],
+			"day": 4,
+			"cx": 547.4653000000001,
+			"cy": 176.18946,
+			"x": 486.7750000000001,
+			"y": 156.92946,
+			"w": 121.3806,
+			"h": 38.52,
+			"oc": "#ccff66"
+		},
+		{
+			"startTime": "13:55",
+			"endTime": "15:05",
+			"details": [
+				{
+					"course": "Medier samhälle och kommunikation 1",
+					"period": "Läsår",
+					"teacher": "JOBR",
+					"location": "304"
+				}
+			],
+			"day": 4,
+			"cx": 547.4653000000001,
+			"cy": 231.15750000000003,
+			"x": 486.7750000000001,
+			"y": 211.8975,
+			"w": 121.3806,
+			"h": 38.52,
+			"oc": "#808000"
+		}
+	],
+	"className": {
+		"id": "{5C7FA140-7C65-4E69-993E-FAC6BACC9269}",
+		"name": "17Es"
+	}
+}

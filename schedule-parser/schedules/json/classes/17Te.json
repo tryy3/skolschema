@@ -1,0 +1,729 @@
+{
+	"width": 610.93,
+	"height": 315,
+	"titles": [
+		"Måndag",
+		"Tisdag",
+		"Onsdag",
+		"Torsdag",
+		"Fredag"
+	],
+	"lessons": [
+		{
+			"startTime": "08:10",
+			"endTime": "09:10",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "Läsår",
+					"teacher": "PEBJ",
+					"location": "209,210"
+				}
+			],
+			"day": 0,
+			"cx": 61.95609999999999,
+			"cy": 38.56071,
+			"x": 1.2658000000000023,
+			"y": 22.10946,
+			"w": 121.3806,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "09:20",
+			"endTime": "09:50",
+			"details": [
+				{
+					"course": "Mentorstid",
+					"period": "Läsår",
+					"teacher": "MAWI,ANEV",
+					"location": "209"
+				}
+			],
+			"day": 0,
+			"cx": 61.95609999999999,
+			"cy": 68.85669000000001,
+			"x": 1.2658000000000023,
+			"y": 60.62946000000001,
+			"w": 121.3806,
+			"h": 16.45446,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "09:50",
+			"endTime": "11:10",
+			"details": [
+				{
+					"course": "Matematik 2c",
+					"period": "Vt",
+					"teacher": "ANEV",
+					"location": "209"
+				}
+			],
+			"day": 0,
+			"cx": 21.118600000000008,
+			"cy": 99.14625000000001,
+			"x": 1.2658000000000023,
+			"y": 77.0775,
+			"w": 39.705600000000004,
+			"h": 44.1375,
+			"oc": "#ff0000"
+		},
+		{
+			"startTime": "09:50",
+			"endTime": "11:10",
+			"details": [
+				{
+					"course": "Matematik 1c",
+					"period": "Vt",
+					"teacher": "ANEV",
+					"location": "209"
+				}
+			],
+			"day": 0,
+			"cx": 61.3852,
+			"cy": 99.14625000000001,
+			"x": 40.9648,
+			"y": 77.0775,
+			"w": 40.8408,
+			"h": 44.1375,
+			"oc": "#ff0000"
+		},
+		{
+			"startTime": "09:50",
+			"endTime": "11:00",
+			"details": [
+				{
+					"course": "Matematik 1c",
+					"period": "Ht",
+					"teacher": "ANEV",
+					"location": "209"
+				}
+			],
+			"day": 0,
+			"cx": 102.226,
+			"cy": 96.3375,
+			"x": 81.8056,
+			"y": 77.0775,
+			"w": 40.8408,
+			"h": 38.52,
+			"oc": "#ff0000"
+		},
+		{
+			"startTime": "11:50",
+			"endTime": "13:30",
+			"details": [
+				{
+					"course": "Kemi 1",
+					"period": "Läsår",
+					"teacher": "ELEG",
+					"location": "104"
+				}
+			],
+			"day": 0,
+			"cx": 61.95609999999999,
+			"cy": 170.77419,
+			"x": 1.2658000000000023,
+			"y": 143.28696,
+			"w": 121.3806,
+			"h": 54.97446,
+			"oc": "#ffff00"
+		},
+		{
+			"startTime": "13:45",
+			"endTime": "14:55",
+			"details": [
+				{
+					"course": "Svenska 1",
+					"period": "Läsår",
+					"teacher": "PEBJ",
+					"location": "210"
+				}
+			],
+			"day": 0,
+			"cx": 61.95609999999999,
+			"cy": 225.54000000000002,
+			"x": 1.2658000000000023,
+			"y": 206.28,
+			"w": 121.3806,
+			"h": 38.52,
+			"oc": "#ccff66"
+		},
+		{
+			"startTime": "15:00",
+			"endTime": "16:00",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "v17-21",
+					"teacher": "MAWI",
+					"location": "210"
+				}
+			],
+			"day": 0,
+			"cx": 61.95609999999999,
+			"cy": 264.0632100000001,
+			"x": 1.2658000000000023,
+			"y": 247.61196,
+			"w": 121.3806,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "08:15",
+			"endTime": "09:15",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "v19-23",
+					"teacher": "CASO",
+					"location": "303"
+				}
+			],
+			"day": 1,
+			"cx": 183.33010000000002,
+			"cy": 41.36625,
+			"x": 122.63980000000001,
+			"y": 24.915,
+			"w": 121.3806,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "09:30",
+			"endTime": "10:40",
+			"details": [
+				{
+					"course": "Matematik 1c",
+					"period": "Ht",
+					"teacher": "ANEV",
+					"location": "210"
+				}
+			],
+			"day": 1,
+			"cx": 152.69950000000003,
+			"cy": 85.50696,
+			"x": 122.63980000000001,
+			"y": 66.24696,
+			"w": 60.1194,
+			"h": 38.52,
+			"oc": "#ff0000"
+		},
+		{
+			"startTime": "10:50",
+			"endTime": "12:00",
+			"details": [
+				{
+					"course": "Historia 1a1",
+					"period": "Ht",
+					"teacher": "ANHO",
+					"location": "209"
+				}
+			],
+			"day": 1,
+			"cx": 152.69950000000003,
+			"cy": 129.24,
+			"x": 122.63980000000001,
+			"y": 109.98,
+			"w": 60.1194,
+			"h": 38.52,
+			"oc": "#ff80ff"
+		},
+		{
+			"startTime": "10:50",
+			"endTime": "12:00",
+			"details": [
+				{
+					"course": "Engelska 5",
+					"period": "Vt",
+					"teacher": "CEBO",
+					"location": "210"
+				}
+			],
+			"day": 1,
+			"cx": 213.39310000000006,
+			"cy": 129.24,
+			"x": 182.76580000000004,
+			"y": 109.98,
+			"w": 61.25460000000001,
+			"h": 38.52,
+			"oc": "#ccff66"
+		},
+		{
+			"startTime": "12:35",
+			"endTime": "13:45",
+			"details": [
+				{
+					"course": "Kemi 1",
+					"period": "Läsår",
+					"teacher": "ELEG",
+					"location": "104"
+				}
+			],
+			"day": 1,
+			"cx": 183.33010000000002,
+			"cy": 187.02,
+			"x": 122.63980000000001,
+			"y": 167.76000000000002,
+			"w": 121.3806,
+			"h": 38.52,
+			"oc": "#ffff00"
+		},
+		{
+			"startTime": "13:50",
+			"endTime": "14:50",
+			"details": [
+				{
+					"course": "Matematik 2c",
+					"period": "Vt",
+					"teacher": "ANEV",
+					"location": "209"
+				}
+			],
+			"day": 1,
+			"cx": 142.4926,
+			"cy": 225.54321000000002,
+			"x": 122.63980000000001,
+			"y": 209.09196000000003,
+			"w": 39.705600000000004,
+			"h": 32.9025,
+			"oc": "#ff0000"
+		},
+		{
+			"startTime": "13:50",
+			"endTime": "14:50",
+			"details": [
+				{
+					"course": "Matematik 1c",
+					"period": "Vt",
+					"teacher": "ANEV",
+					"location": "209"
+				}
+			],
+			"day": 1,
+			"cx": 182.76580000000004,
+			"cy": 225.54321000000002,
+			"x": 162.34540000000004,
+			"y": 209.09196000000003,
+			"w": 40.8408,
+			"h": 32.9025,
+			"oc": "#ff0000"
+		},
+		{
+			"startTime": "13:55",
+			"endTime": "15:05",
+			"details": [
+				{
+					"course": "Engelska 5",
+					"period": "Ht",
+					"teacher": "CEBO",
+					"location": "209"
+				}
+			],
+			"day": 1,
+			"cx": 223.60000000000002,
+			"cy": 231.15750000000003,
+			"x": 203.1796,
+			"y": 211.8975,
+			"w": 40.8408,
+			"h": 38.52,
+			"oc": "#ccff66"
+		},
+		{
+			"startTime": "15:15",
+			"endTime": "16:15",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "Läsår",
+					"teacher": "MAWI,ELEG",
+					"location": "201,104"
+				}
+			],
+			"day": 1,
+			"cx": 183.33010000000002,
+			"cy": 272.29044000000005,
+			"x": 122.63980000000001,
+			"y": 255.63696000000004,
+			"w": 121.3806,
+			"h": 33.306960000000004,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "08:15",
+			"endTime": "09:25",
+			"details": [
+				{
+					"course": "Matematik 1c",
+					"period": "Ht",
+					"teacher": "ANEV",
+					"location": "210"
+				}
+			],
+			"day": 2,
+			"cx": 263.87320000000005,
+			"cy": 44.175000000000004,
+			"x": 244.02040000000005,
+			"y": 24.915,
+			"w": 39.705600000000004,
+			"h": 38.52,
+			"oc": "#ff0000"
+		},
+		{
+			"startTime": "08:15",
+			"endTime": "09:25",
+			"details": [
+				{
+					"course": "Matematik 2c",
+					"period": "Vt",
+					"teacher": "ANEV",
+					"location": "210"
+				}
+			],
+			"day": 2,
+			"cx": 304.13980000000004,
+			"cy": 44.175000000000004,
+			"x": 283.7194,
+			"y": 24.915,
+			"w": 40.8408,
+			"h": 38.52,
+			"oc": "#ff0000"
+		},
+		{
+			"startTime": "08:15",
+			"endTime": "09:25",
+			"details": [
+				{
+					"course": "Matematik 1c",
+					"period": "Vt",
+					"teacher": "ANEV",
+					"location": "210"
+				}
+			],
+			"day": 2,
+			"cx": 344.98060000000004,
+			"cy": 44.175000000000004,
+			"x": 324.5602,
+			"y": 24.915,
+			"w": 40.8408,
+			"h": 38.52,
+			"oc": "#ff0000"
+		},
+		{
+			"startTime": "10:10",
+			"endTime": "11:10",
+			"details": [
+				{
+					"course": "Idrott och hälsa 1",
+					"period": "Läsår",
+					"teacher": "ERAN",
+					"location": null
+				},
+				{
+					"course": "Tegelbruket",
+					"period": "",
+					"teacher": null,
+					"location": null
+				}
+			],
+			"day": 2,
+			"cx": 304.71070000000003,
+			"cy": 104.76375,
+			"x": 244.02040000000005,
+			"y": 88.3125,
+			"w": 121.3806,
+			"h": 32.9025,
+			"oc": "#ffc000"
+		},
+		{
+			"startTime": "12:30",
+			"endTime": "14:50",
+			"details": [
+				{
+					"course": "Fysik 1a",
+					"period": "Vt",
+					"teacher": "JAZA",
+					"location": "204b"
+				}
+			],
+			"day": 2,
+			"cx": 334.7671000000001,
+			"cy": 203.47446000000002,
+			"x": 304.13980000000004,
+			"y": 164.95445999999998,
+			"w": 61.25460000000001,
+			"h": 77.04,
+			"oc": "#ff8000"
+		},
+		{
+			"startTime": "12:30",
+			"endTime": "13:40",
+			"details": [
+				{
+					"course": "Historia 1a1",
+					"period": "Ht",
+					"teacher": "ANHO",
+					"location": "304"
+				}
+			],
+			"day": 2,
+			"cx": 274.08009999999996,
+			"cy": 184.21446,
+			"x": 244.02040000000005,
+			"y": 164.95445999999998,
+			"w": 60.1194,
+			"h": 38.52,
+			"oc": "#ff80ff"
+		},
+		{
+			"startTime": "08:10",
+			"endTime": "09:15",
+			"details": [
+				{
+					"course": "Svenska som andraspråk 1",
+					"period": "Läsår Ej:v34-36,38-42",
+					"teacher": "CASO",
+					"location": "304"
+				}
+			],
+			"day": 3,
+			"cx": 395.45410000000004,
+			"cy": 39.96669,
+			"x": 365.3944,
+			"y": 22.10946,
+			"w": 60.1194,
+			"h": 35.71446,
+			"oc": "#00ff00"
+		},
+		{
+			"startTime": "09:20",
+			"endTime": "10:30",
+			"details": [
+				{
+					"course": "Engelska 5",
+					"period": "Läsår",
+					"teacher": "CEBO",
+					"location": "209"
+				}
+			],
+			"day": 3,
+			"cx": 426.08470000000005,
+			"cy": 79.88946,
+			"x": 365.3944,
+			"y": 60.62946000000001,
+			"w": 121.3806,
+			"h": 38.52,
+			"oc": "#ccff66"
+		},
+		{
+			"startTime": "10:40",
+			"endTime": "11:50",
+			"details": [
+				{
+					"course": "Matematik 1c",
+					"period": "Ht",
+					"teacher": "ANEV",
+					"location": "210"
+				}
+			],
+			"day": 3,
+			"cx": 385.2472,
+			"cy": 124.02696,
+			"x": 365.3944,
+			"y": 104.76696,
+			"w": 39.705600000000004,
+			"h": 38.52,
+			"oc": "#ff0000"
+		},
+		{
+			"startTime": "10:40",
+			"endTime": "11:50",
+			"details": [
+				{
+					"course": "Matematik 2c",
+					"period": "Vt",
+					"teacher": "ANEV",
+					"location": "210"
+				}
+			],
+			"day": 3,
+			"cx": 425.5204,
+			"cy": 124.02696,
+			"x": 405.1,
+			"y": 104.76696,
+			"w": 40.8408,
+			"h": 38.52,
+			"oc": "#ff0000"
+		},
+		{
+			"startTime": "10:40",
+			"endTime": "11:50",
+			"details": [
+				{
+					"course": "Matematik 1c",
+					"period": "Vt",
+					"teacher": "ANEV",
+					"location": "210"
+				}
+			],
+			"day": 3,
+			"cx": 466.36120000000005,
+			"cy": 124.02696,
+			"x": 445.9408000000001,
+			"y": 104.76696,
+			"w": 40.8408,
+			"h": 38.52,
+			"oc": "#ff0000"
+		},
+		{
+			"startTime": "12:30",
+			"endTime": "13:40",
+			"details": [
+				{
+					"course": "Programmering 1",
+					"period": "Läsår",
+					"teacher": "HÅLI",
+					"location": "201"
+				}
+			],
+			"day": 3,
+			"cx": 426.08470000000005,
+			"cy": 184.21446,
+			"x": 365.3944,
+			"y": 164.95445999999998,
+			"w": 121.3806,
+			"h": 38.52,
+			"oc": "#ff8080"
+		},
+		{
+			"startTime": "13:50",
+			"endTime": "14:50",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "v48-23",
+					"teacher": "ANHO",
+					"location": null
+				}
+			],
+			"day": 3,
+			"cx": 426.08470000000005,
+			"cy": 225.54321000000002,
+			"x": 365.3944,
+			"y": 209.09196000000003,
+			"w": 121.3806,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "15:45",
+			"endTime": "16:45",
+			"details": [
+				{
+					"course": "Frivilligt studiestöd",
+					"period": "Läsår",
+					"teacher": "CEBO,JOBR",
+					"location": "209,201,303"
+				}
+			],
+			"day": 3,
+			"cx": 426.08470000000005,
+			"cy": 288.9407100000001,
+			"x": 365.3944,
+			"y": 272.48946000000007,
+			"w": 121.3806,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "08:10",
+			"endTime": "09:10",
+			"details": [
+				{
+					"course": "Mattestuga",
+					"period": "Läsår",
+					"teacher": "AIME,JAZA,ANEV,HÅLI",
+					"location": null
+				},
+				{
+					"course": "304, 303",
+					"period": "",
+					"teacher": null,
+					"location": null
+				}
+			],
+			"day": 4,
+			"cx": 547.4653000000001,
+			"cy": 38.56071,
+			"x": 486.7750000000001,
+			"y": 22.10946,
+			"w": 121.3806,
+			"h": 32.9025,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "09:20",
+			"endTime": "11:40",
+			"details": [
+				{
+					"course": "Teknik 1",
+					"period": "Läsår",
+					"teacher": "JAZA",
+					"location": "204b"
+				}
+			],
+			"day": 4,
+			"cx": 547.4653000000001,
+			"cy": 99.14946000000002,
+			"x": 486.7750000000001,
+			"y": 60.62946000000001,
+			"w": 121.3806,
+			"h": 77.04,
+			"oc": "#ffffff"
+		},
+		{
+			"startTime": "12:40",
+			"endTime": "13:50",
+			"details": [
+				{
+					"course": "Svenska 1",
+					"period": "Läsår",
+					"teacher": "PEBJ",
+					"location": "210"
+				}
+			],
+			"day": 4,
+			"cx": 547.4653000000001,
+			"cy": 189.83196,
+			"x": 486.7750000000001,
+			"y": 170.57196,
+			"w": 121.3806,
+			"h": 38.52,
+			"oc": "#ccff66"
+		},
+		{
+			"startTime": "14:00",
+			"endTime": "15:10",
+			"details": [
+				{
+					"course": "Programmering 1",
+					"period": "Läsår",
+					"teacher": "HÅLI",
+					"location": "201"
+				}
+			],
+			"day": 4,
+			"cx": 547.4653000000001,
+			"cy": 233.96946000000003,
+			"x": 486.7750000000001,
+			"y": 214.70946000000004,
+			"w": 121.3806,
+			"h": 38.52,
+			"oc": "#ff8080"
+		}
+	],
+	"className": {
+		"id": "{165168AC-F1AE-4E2E-9378-CBCDD607C06E}",
+		"name": "17Te"
+	}
+}
